@@ -1,0 +1,14 @@
+.row {
+  background-color: #fff;
+}
+
+.name-box {
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.submitted {
+  background-color: #5cb85c;
+  color: white;
+}
